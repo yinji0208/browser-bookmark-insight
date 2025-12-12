@@ -1,0 +1,5 @@
+{
+  "name": "Bookmark Insight AI",
+  "description": "An intelligent Chrome Bookmarks analyzer that visualizes your browsing habits and uses Gemini AI to generate a user interest profile.",
+  "requestFramePermissions": []
+}
